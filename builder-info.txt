@@ -1,0 +1,7 @@
+SITE_ID=site-05
+DESIGN_ID=design-05
+DESIGN_NAME=정보형
+SITE_NAME=카플랜
+DOMAIN=
+PHONE=
+REGIONS=seoul
